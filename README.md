@@ -90,7 +90,7 @@ LLMs as glue, code as logic. Probabilistic reasoning belongs in the planner, nev
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquescastilho&theme=react-dark&bg_color=0A0A0A&color=7C3AED&line=7C3AED&point=FFFFFF&hide_border=false&custom_title=Activity&radius=8" width="100%" alt="activity graph" />
+<img src="https://raw.githubusercontent.com/henriquescastilho/henriquescastilho/main/metrics.lines.svg" alt="lines of code over time" width="100%" />
 
 <br/><br/>
 

@@ -42,6 +42,28 @@ LLMs as glue, code as logic. Probabilistic reasoning belongs in the planner, nev
 
 ---
 
+## Stop using
+
+**n8n, Zapier, Make for agents.**
+Visual nodes are prototypes. SDKs ship.
+
+**Flowise, Botpress, Voiceflow.**
+Abstractions that hide the LLM hide the bugs.
+
+**AutoGPT-style recursion demos.**
+Recursion without state is a parlor trick.
+
+**LangChain Agent wrappers.**
+LangGraph for state, raw SDK for everything else. The Agent abstraction died for a reason.
+
+**JavaScript without TypeScript for agent code.**
+Typed tool schemas or it's a guessing game.
+
+**GPT wrappers calling themselves products.**
+A system prompt is not a moat.
+
+---
+
 ## Stack
 
 <div align="center">

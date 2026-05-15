@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0A0A0A&height=180&section=header&text=henriquescastilho&fontColor=FFFFFF&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Software%20%C2%B7%20Applied%20AI%20%C2%B7%20Quantitative%20Modeling&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="header" />
 
 <a href="https://github.com/henriquescastilho">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+with+Claude%2C+every+day.;Multi-agent+systems.+Quantitative+models.+Production+pipelines.;One+person.+AI-native+workflow.;Notes+from+the+edge+of+solo+software+engineering." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+agents+at+the+SDK+layer.;Code%2C+not+canvases.+SDK+over+no-code%2C+always.;Multi-agent+systems.+Quantitative+models.+Production+pipelines.;Building+with+Claude%2C+every+day." alt="typing" />
 </a>
 
 </div>
@@ -14,7 +14,9 @@
 
 Born in 2002, Rio de Janeiro.
 
-I build at the intersection of software engineering, applied AI and statistical modeling. I'm drawn to problems where public data, distributed systems and probabilistic reasoning meet, and to turning manual processes into deterministic pipelines.
+I build agents and AI systems at the SDK layer — state in code, tools as functions, memory as a database. No drag-and-drop, no visual builders, no n8n. If it can't be expressed in a typed function signature, it doesn't ship.
+
+I work at the intersection of software engineering, applied AI and statistical modeling. I'm drawn to problems where public data, distributed systems and probabilistic reasoning meet, and to turning manual processes into deterministic pipelines.
 
 ---
 
@@ -22,6 +24,9 @@ I build at the intersection of software engineering, applied AI and statistical 
 
 **On scale.**
 One person can now ship what a 20-person team shipped in 2020. The bottleneck moved from execution to taste. The next decade rewards founders who decide well, not founders who type fast.
+
+**On the SDK layer.**
+n8n is a prototype that thinks it's a product. Visual agent builders are training wheels — fine until your first real edge case, useless after it. Every agent system I've shipped lives at the SDK layer: state in code, tools as functions, memory as a database. Drag boxes, hit a wall. Write SDKs, ship anything.
 
 **On taste.**
 Production-grade UI is the new moat. The cost of generic AI aesthetics is invisible churn. If your interface looks like ChatGPT in a wrapper, your product is a wrapper.

@@ -60,15 +60,27 @@ LLM como cola, código como lógica. Raciocínio probabilístico pertence ao pla
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,ts,nextjs,react,postgresql,redis,gcp,docker,git,github,vercel,vscode,tailwind&theme=dark&perline=14" alt="stack" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,ts,nextjs,react,tailwind,postgresql,redis,docker,git,github,vercel,vscode,gcp,aws,azure,kali&theme=dark&perline=17" alt="stack" />
 
 <br/><br/>
 
+<sub><b>AI & Orchestration</b></sub>
+<br/>
 <img src="https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0A0A0A" alt="Claude" />
-<img src="https://img.shields.io/badge/Gemini%202.5-7C3AED?style=for-the-badge&logo=google&logoColor=white&labelColor=0A0A0A" alt="Gemini" />
+<img src="https://img.shields.io/badge/Gemini-7C3AED?style=for-the-badge&logo=google&logoColor=white&labelColor=0A0A0A" alt="Gemini" />
 <img src="https://img.shields.io/badge/Agno%20SDK-7C3AED?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="Agno SDK" />
-<img src="https://img.shields.io/badge/Cloud%20Run-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0A0A0A" alt="Cloud Run" />
+<img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0A0A0A" alt="LangGraph" />
 <img src="https://img.shields.io/badge/ReportLab-7C3AED?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="ReportLab" />
+
+<br/><br/>
+
+<sub><b>Security & Pentest</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-7C3AED?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0A0A0A" alt="OWASP Top 10" />
+<img src="https://img.shields.io/badge/Burp%20Suite-7C3AED?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0A0A0A" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Metasploit-7C3AED?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0A0A0A" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Nmap-7C3AED?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="Nmap" />
+<img src="https://img.shields.io/badge/Pentest%20Mindset-7C3AED?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="Pentest Mindset" />
 
 </div>
 
@@ -115,7 +127,7 @@ LLM como cola, código como lógica. Raciocínio probabilístico pertence ao pla
 
 <div align="center">
 
-<a href="mailto:henrique@paymentsline.com">
+<a href="mailto:henrique009.hsc@gmail.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="email" />
 </a>
 <a href="https://github.com/henriquescastilho">

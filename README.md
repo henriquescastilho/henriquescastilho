@@ -12,9 +12,9 @@
 
 ## Henrique Castilho
 
-Nascido em 2002, Rio de Janeiro.
+Born in 2002, Rio de Janeiro.
 
-Construo na intersecção de engenharia de software, IA aplicada e modelagem estatística. Gosto de problemas onde dados públicos, sistemas distribuídos e raciocínio probabilístico se encontram, e de transformar processos manuais em pipelines determinísticos.
+I build at the intersection of software engineering, applied AI and statistical modeling. I'm drawn to problems where public data, distributed systems and probabilistic reasoning meet, and to turning manual processes into deterministic pipelines.
 
 ---
 
@@ -34,25 +34,6 @@ Sub-agent routing by model is the cheapest performance optimization nobody talks
 
 **On determinism.**
 LLMs as glue, code as logic. Probabilistic reasoning belongs in the planner, never in the executor. The path to reliable agents is shrinking the surface where the model decides.
-
----
-
-## Notas
-
-**Sobre escala.**
-Uma pessoa hoje entrega o que um time de 20 entregava em 2020. O gargalo saiu da execução e foi pro discernimento. A próxima década premia quem decide bem, não quem digita rápido.
-
-**Sobre estética.**
-UI production-grade é o novo moat. O custo de estética genérica de IA é churn invisível. Se sua interface parece ChatGPT com wrapper, seu produto é um wrapper.
-
-**Sobre segurança.**
-Segurança é pré-requisito, não feature. OWASP Top 10 entra na v0.1, não na v1.0. Todo fallback de secret em produção é uma backdoor que você abriu de propósito.
-
-**Sobre roteamento.**
-Roteamento de sub-agents por modelo é a otimização de performance mais barata que ninguém comenta. Haiku pra busca, Sonnet pra código, Opus só pra arquitetura. Usar Opus pra tudo é um imposto que você cobra de si mesmo.
-
-**Sobre determinismo.**
-LLM como cola, código como lógica. Raciocínio probabilístico pertence ao planner, nunca ao executor. O caminho pra agents confiáveis é encolher a superfície onde o modelo decide.
 
 ---
 
@@ -86,13 +67,13 @@ LLM como cola, código como lógica. Raciocínio probabilístico pertence ao pla
 
 ---
 
-## Áreas de interesse
+## Interests
 
-- Sistemas multi-agente em produção, com handoff entre especialistas
-- Modelagem quantitativa aplicada: Poisson, Dixon-Coles, Monte Carlo
-- Engenharia de dados para análise de risco e compliance
-- Orquestração de LLMs com ferramentas, memória e fluxo determinístico
-- Automação de obrigações acessórias e processos document-heavy
+- Production multi-agent systems, with handoff between specialists
+- Applied quantitative modeling: Poisson, Dixon-Coles, Monte Carlo
+- Data engineering for risk analysis and compliance
+- LLM orchestration with tools, memory and deterministic flow
+- Automation of regulatory filings and document-heavy processes
 
 ---
 
@@ -123,7 +104,7 @@ LLM como cola, código como lógica. Raciocínio probabilístico pertence ao pla
 
 ---
 
-## Contato
+## Contact
 
 <div align="center">
 

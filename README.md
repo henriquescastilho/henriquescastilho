@@ -1,5 +1,15 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquescastilho/henriquescastilho/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquescastilho/henriquescastilho/main/light.svg">
+  <img alt="Henrique Castilho" src="https://raw.githubusercontent.com/henriquescastilho/henriquescastilho/main/dark.svg" width="100%">
+</picture>
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0A0A0A&height=180&section=header&text=henriquescastilho&fontColor=FFFFFF&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Software%20%C2%B7%20Applied%20AI%20%C2%B7%20Quantitative%20Modeling&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="header" />
 
 <a href="https://github.com/henriquescastilho">
